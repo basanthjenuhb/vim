@@ -6,7 +6,7 @@ A vim Cheatsheet
 
 ## Exit without saving
 1. :q!
-  - '!' is for override
+    - '!' is for override
 
 ## Moving around
 1. Move Left - H
